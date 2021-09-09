@@ -1,2 +1,2 @@
 # Practica1_fdp
-Este es un repositorio para la práctica de fundamento de programación
+Este es un repositorio para la práctica de fundamentos de programación
